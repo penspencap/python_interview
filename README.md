@@ -1,9 +1,6 @@
 # python 面试题
 
-包安装
-```
-pip3 install -r requirement.txt
-```
+./question.py
 
 运行我写的函数
 ```
